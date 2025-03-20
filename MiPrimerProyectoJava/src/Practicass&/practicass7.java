@@ -1,4 +1,4 @@
-package MiPrimerProyectoJava;
+
 import java.util.Scanner;
 public class practicass7 {
     public static void main(String[] args) {

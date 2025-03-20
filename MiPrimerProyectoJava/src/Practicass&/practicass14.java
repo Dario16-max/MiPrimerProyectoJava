@@ -1,4 +1,4 @@
-package MiPrimerProyectoJava;
+
 
 public class practicass14 {
 
